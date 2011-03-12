@@ -1,4 +1,5 @@
 package ore.orelib {
+	
 	public class VEBTree {
 		private var _maxSize:int;               // 最大で保持できるキーの数
 		private var _lowBits:int;               // キーの下位ビット数（上位ビット取得用）
